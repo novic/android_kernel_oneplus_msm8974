@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 112
-EXTRAVERSION = -anikos-hardened-02
+EXTRAVERSION = -anikos-hardened
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
